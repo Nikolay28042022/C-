@@ -6,3 +6,5 @@ Console.WriteLine(numberA / numberB);
 double n1 = 12;
 double n2 = 5;
 Console.Write(n1 / n2);
+
+
